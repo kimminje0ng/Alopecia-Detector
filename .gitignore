@@ -2,6 +2,5 @@
 /not_using
 /__pycache__
 /wandb
-/weights*
 kill.txt
 mix-data-*.txt
